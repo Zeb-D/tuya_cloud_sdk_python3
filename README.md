@@ -1,10 +1,12 @@
 # tuya_cloud_sdk_python3
 tuya developer could api python3 sdk
 
-###Introduction
+### Introduction
+
 Tuya Cloud API SDK for python3.
 
-###Get Started
+### Get Started
+
 Make sure you have serverHOST, AccessID and AccessKey.
 
 Before running this SDK, you need to initialize it with the following method:
